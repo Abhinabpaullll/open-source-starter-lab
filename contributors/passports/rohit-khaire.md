@@ -4,10 +4,10 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 ## Current Level
 
-- Level: 1 - First PR Contributor
+- Level: 2 - Returning Contributor
 - First merged PR: #434
-- Latest merged PR: #434
-- Primary skill: cli
+- Latest merged PR: #435
+- Primary skill: testing
 - Proof: merged pull request with maintainer review and project checks
 
 ## Verified Contributions
@@ -15,6 +15,8 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 | PR | Date | Skill | Work | Linked issues |
 | --- | --- | --- | --- | --- |
 | #434 | 2026-09-27 | cli | feat: add --dry-run flag to createDailyIssue script (#433) | #433 |
+
+| #435 | 2026-09-27 | testing | test(cli): add test for unknown commands (#400) | #400 |
 
 ## Suggested Next Step
 
