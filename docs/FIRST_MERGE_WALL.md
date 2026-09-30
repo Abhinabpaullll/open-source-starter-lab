@@ -452,6 +452,12 @@ Keep your entry short and professional.
 - I worked on: feat: add --dry-run flag to createDailyIssue script (#433)
 - I learned: how a focused pull request becomes a visible open-source contribution
 
+### @SakshiKamble08
+
+- First merged PR: #443
+- I worked on: test(cli): improve unknown command coverage
+- I learned: how a focused pull request becomes a visible open-source contribution
+
 ## Why This Exists
 
 Open source can feel invisible when you are starting out. This page gives new contributors a simple record of their first merge and shows future visitors that real beginners are welcome here.
