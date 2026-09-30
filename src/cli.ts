@@ -16,6 +16,7 @@ import { suggest } from "./plugins/suggest.js";
 import { leaderboard } from "./plugins/leaderboard.js";
 import { streak } from "./plugins/streak.js";
 import { welcome } from "./plugins/welcome.js";
+import { weeklySummary } from "./plugins/weeklySummary.js";
 
 function readFlag(name: string): string | undefined {
   const index = process.argv.indexOf(name);
@@ -264,6 +265,11 @@ async function main(): Promise<void> {
     return;
   }
 
+  if (command === "weekly-summary") {
+    await weeklySummary();
+    return;
+  }
+
   if (command === "mentor") {
     await printMentor();
     return;
@@ -309,6 +315,9 @@ async function main(): Promise<void> {
     );
     console.log(
       "  oss-lab leaderboard"
+    );
+    console.log(
+      "  oss-lab weekly-summary"
     );
     console.log(
       "  oss-lab mentor --skill docs"
