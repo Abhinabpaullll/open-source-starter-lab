@@ -4,9 +4,9 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 ## Current Level
 
-- Level: 1 - First PR Contributor
+- Level: 2 - Returning Contributor
 - First merged PR: #410
-- Latest merged PR: #410
+- Latest merged PR: #413
 - Primary skill: testing
 - Proof: merged pull request with maintainer review and project checks
 
@@ -16,9 +16,11 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 | --- | --- | --- | --- | --- |
 | #410 | 2026-09-26 | testing | Improve queued workflow monitoring in automation health check | #402 |
 
+| #413 | 2026-09-30 | testing | Refactor tests for daily issue backlog structure | #407 |
+
 ## Suggested Next Step
 
-- Second PR route: #422 Give src/issueIdeas.ts some real test coverage
+- Second PR route: #450 Let createDailyIssue.ts run without touching GitHub
 
 ## Share Line
 
