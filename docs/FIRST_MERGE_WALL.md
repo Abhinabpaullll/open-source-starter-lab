@@ -482,6 +482,12 @@ Keep your entry short and professional.
 - I worked on: test: add timeline parser coverage
 - I learned: how a focused pull request becomes a visible open-source contribution
 
+### @siddhi-3010
+
+- First merged PR: #447
+- I worked on: test: cover daily issue selection
+- I learned: how a focused pull request becomes a visible open-source contribution
+
 ## Why This Exists
 
 Open source can feel invisible when you are starting out. This page gives new contributors a simple record of their first merge and shows future visitors that real beginners are welcome here.
