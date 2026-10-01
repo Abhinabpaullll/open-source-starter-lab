@@ -6,8 +6,8 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 - Level: 3 - Trust Builder
 - First merged PR: #77
-- Latest merged PR: #365
-- Primary skill: open source workflow
+- Latest merged PR: #458
+- Primary skill: testing
 - Proof: merged pull request with maintainer review and project checks
 
 ## Verified Contributions
@@ -56,9 +56,11 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 | #365 | 2026-09-15 | open source workflow | Implement closeResolvedDailyIssues function | No linked issue was found in the PR body. |
 
+| #458 | 2026-10-01 | testing | Update smoke test to check success message logging | No linked issue was found in the PR body. |
+
 ## Suggested Next Step
 
-- Second PR route: #361 Add CLI tests for unknown commands
+- Second PR route: #455 Give src/dailyIssueBacklog.ts some real test coverage
 
 ## Share Line
 
