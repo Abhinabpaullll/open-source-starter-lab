@@ -4,10 +4,10 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 ## Current Level
 
-- Level: 2 - Returning Contributor
+- Level: 3 - Trust Builder
 - First merged PR: #410
-- Latest merged PR: #413
-- Primary skill: testing
+- Latest merged PR: #412
+- Primary skill: open source workflow
 - Proof: merged pull request with maintainer review and project checks
 
 ## Verified Contributions
@@ -18,9 +18,11 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 | #413 | 2026-09-30 | testing | Refactor tests for daily issue backlog structure | #407 |
 
+| #412 | 2026-10-01 | open source workflow | Implement exportStats function for contributor stats | #406 |
+
 ## Suggested Next Step
 
-- Second PR route: #450 Let createDailyIssue.ts run without touching GitHub
+- Second PR route: #455 Give src/dailyIssueBacklog.ts some real test coverage
 
 ## Share Line
 
