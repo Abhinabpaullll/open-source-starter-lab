@@ -6,7 +6,7 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 - Level: 3 - Trust Builder
 - First merged PR: #260
-- Latest merged PR: #441
+- Latest merged PR: #444
 - Primary skill: testing
 - Proof: merged pull request with maintainer review and project checks
 
@@ -26,9 +26,11 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 | #441 | 2026-09-30 | testing | fix: make queued-run check reliable and configurable (#430) | #430 |
 
+| #444 | 2026-10-01 | testing | Fix/442 welcome pr test coverage | #442 |
+
 ## Suggested Next Step
 
-- Second PR route: #450 Let createDailyIssue.ts run without touching GitHub
+- Second PR route: #456 Give src/plugins/timeline.ts some real test coverage
 
 ## Share Line
 
