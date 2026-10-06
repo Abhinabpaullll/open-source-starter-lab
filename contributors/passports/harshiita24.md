@@ -4,10 +4,10 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 ## Current Level
 
-- Level: 1 - First PR Contributor
+- Level: 2 - Returning Contributor
 - First merged PR: #473
-- Latest merged PR: #473
-- Primary skill: testing
+- Latest merged PR: #480
+- Primary skill: docs
 - Proof: merged pull request with maintainer review and project checks
 
 ## Verified Contributions
@@ -15,6 +15,8 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 | PR | Date | Skill | Work | Linked issues |
 | --- | --- | --- | --- | --- |
 | #473 | 2026-10-06 | testing | test: cover plural days in formatPrStreak | No linked issue was found in the PR body. |
+
+| #480 | 2026-10-06 | docs | docs: explain how to find and add missing test assertions | #476 |
 
 ## Suggested Next Step
 
