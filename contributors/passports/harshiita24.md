@@ -6,7 +6,7 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 - Level: 3 - Trust Builder
 - First merged PR: #473
-- Latest merged PR: #475
+- Latest merged PR: #483
 - Primary skill: cli
 - Proof: merged pull request with maintainer review and project checks
 
@@ -20,9 +20,11 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 | #475 | 2026-10-06 | cli | fix: correct accepted skills in fit command help and docs | #470 |
 
+| #483 | 2026-10-07 | cli | feat(plugins): implement label-stats command to show issue label counts | #482 |
+
 ## Suggested Next Step
 
-- Second PR route: #486 Let createDailyIssue.ts run without touching GitHub
+- Second PR route: #488 Give src/plugins/mentor.ts some real test coverage
 
 ## Share Line
 
