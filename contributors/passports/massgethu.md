@@ -4,10 +4,10 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 
 ## Current Level
 
-- Level: 1 - First PR Contributor
+- Level: 2 - Returning Contributor
 - First merged PR: #487
-- Latest merged PR: #487
-- Primary skill: open source workflow
+- Latest merged PR: #478
+- Primary skill: testing
 - Proof: merged pull request with maintainer review and project checks
 
 ## Verified Contributions
@@ -16,9 +16,11 @@ This passport records reviewed, merged contributions in Open Source Starter Lab.
 | --- | --- | --- | --- | --- |
 | #487 | 2026-10-06 | open source workflow | fix: hide internal marker from mentor tips | #471 |
 
+| #478 | 2026-10-07 | testing | test: add badge output coverage | No linked issue was found in the PR body. |
+
 ## Suggested Next Step
 
-- Second PR route: #486 Let createDailyIssue.ts run without touching GitHub
+- Second PR route: #488 Give src/plugins/mentor.ts some real test coverage
 
 ## Share Line
 
